@@ -1,0 +1,2 @@
+-rwxr-xr-x 1 vscode vscode 223M Aug  7 09:40 ./.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.117.1/linux_amd64/terraform-provider-azurerm_v3.117.1_x5
+-r--r--r-- 1 vscode vscode 62M Aug  7 09:59 ./.git/objects/9f/5f0b9feb7626a0f53112f1b3fe7c603101616d

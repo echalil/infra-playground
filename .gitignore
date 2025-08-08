@@ -1,1 +1,6 @@
 .terraform/providers/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+lab/terraform/azure-rg/.terraform/providers/
